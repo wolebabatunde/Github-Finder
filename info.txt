@@ -1,0 +1,5 @@
+bb9f79c75e36cf25f3d2f2f1a1c8debd95683584  //Secret Code(Key)
+
+http://127.0.0.1:5500  //URL & CALLBACK URL
+
+f69da5b8afdd3ea4026f //ID
